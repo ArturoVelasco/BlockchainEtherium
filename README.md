@@ -1,2 +1,2 @@
-# BlockchainEtherium
+# BlockchainEthereum
 Buildathon 2025
